@@ -1,7 +1,7 @@
 # healthcare-operations-financial-intelligence
 #  Healthcare Operations & Financial Intelligence Dashboard
 
-### Power BI Portfolio Project | AnalystLab Africa — Track A
+### Power BI Portfolio Project | AnalystLab Africa 
 
 ## Project Overview
 
